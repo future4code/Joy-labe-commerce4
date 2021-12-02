@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Action Figure - Tribore",
+        "value": 75.0,
+        "class": "actionFigure",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "name": "Action Figure - Gary Goodspeed + Mooncake",
+        "value": 100.0,
+        "class": "actionFigure",
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "name": "Action Figure - Avocato",
+        "value": 75.0,
+        "class": "actionFigure",
+        "stock": 50
+    },
+    {
+        "id": 4,
+        "name": "Action Figure - HUE",
+        "value": 50.0,
+        "class": "actionFigure",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "name": "Mooncake de Pelúcia",
+        "value": 50.0,
+        "class": "pelucia",
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "name": "KVN de Pelúcia",
+        "value": 50.0,
+        "class": "pelucia",
+        "stock": 50
+    }
+]
